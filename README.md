@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js ,MongoDB**
 
-- 💬 Ask me about **React ,CrewAI ,LangGraph,LangChain**
+
 
 - ⚡ Fun fact **I Can't Say NO**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
